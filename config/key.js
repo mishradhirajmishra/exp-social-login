@@ -11,10 +11,6 @@ module.exports = {
         consumerKey : 'ynUxeVcryXZRd3r4tXATu85ze',
         consumerSecret : 'ikZScHpFwl7s14TmntURumyhrVqhnjARpIduk4ZKQcWMfaTGRE'
     },
-    linkedin: {
-        clientID: '81fks5toekez6v',
-        clientSecret: '0VvNy4xTAKxJmnGK',
-    },
     mpngoURL : 'mongodb://dhiraj:dhiraj123@ds343718.mlab.com:43718/neweventsdb',  
     session_key :'dsbhadgbsajdswahdzxjhdcusagdwqyuedjsazxauszdghwqyudhwqa'
 }
