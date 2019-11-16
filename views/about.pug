@@ -1,0 +1,10 @@
+extends layout
+
+block content
+
+  h1.text-center= title
+  p Id #{user.id}
+  p Name #{user.name}
+  p Role #{user.role}
+  p Provider #{user.provider}
+  img(src=user.image)
